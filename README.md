@@ -1,7 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Pranali</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/5885477/ui-ux_design8.gif">
+
+‹img align="right" alt="Coding" width = 400  src = "https://cdn.dribbble.com/users/795597/screenshots/5885477/ui-ux_design8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranali-nevase&label=Profile%20views&color=0e75b6&style=flat" alt="pranali-nevase" /> </p>
 
 - 💬 Ask me about **UI, UX, Web Development(Frontend)**
