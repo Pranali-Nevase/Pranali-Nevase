@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranali</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
-‹img align="right" alt="Coding" width = 400  src = "https://miro.medium.com/v2/resize:fit:1400/1*Jj4C5CjC59g4mWNGvbXncg.gif">
+‹img align="right" alt="Coding" width = 400  src = "https://www.hdsi.io/uploadImages/ProductImages/Product-P-8-637244471907830253.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranali-nevase&label=Profile%20views&color=0e75b6&style=flat" alt="pranali-nevase" /> </p>
 
 - 💬 Ask me about **UI, UX, Web Development(Frontend)**
